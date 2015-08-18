@@ -1,0 +1,5 @@
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Core\bin\Debug\Blueprinter.Core.dll
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Core\bin\Debug\Blueprinter.Core.pdb
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Core\obj\Debug\Blueprinter.Core.csprojResolveAssemblyReference.cache
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Core\obj\Debug\Blueprinter.Core.dll
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Core\obj\Debug\Blueprinter.Core.pdb

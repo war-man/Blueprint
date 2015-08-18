@@ -1,0 +1,15 @@
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\bin\Debug\Blueprinter.exe.config
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\bin\Debug\Blueprinter.exe
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\bin\Debug\Blueprinter.pdb
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\bin\Debug\Blueprinter.Core.dll
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\bin\Debug\Blueprinter.Presentation.dll
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\bin\Debug\Blueprinter.Core.pdb
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\bin\Debug\Blueprinter.Presentation.pdb
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.csprojResolveAssemblyReference.cache
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.Properties.Resources.resources
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.ViewBlueprintManager.resources
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.ViewMain.resources
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.csproj.GenerateResource.Cache
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.exe
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.pdb
+C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter\obj\Debug\Blueprinter.ViewFileSaveAs.resources
