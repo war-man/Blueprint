@@ -5,3 +5,10 @@ C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprin
 C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Presentation\obj\Debug\Blueprinter.Presentation.csprojResolveAssemblyReference.cache
 C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Presentation\obj\Debug\Blueprinter.Presentation.dll
 C:\Users\englumik\Documents\Visual Studio 2012\Projects\mpv\Blueprinter\Blueprinter.Presentation\obj\Debug\Blueprinter.Presentation.pdb
+C:\Users\englumik\Documents\GitHub\Blueprint\Blueprinter\Blueprinter.Presentation\bin\Debug\Blueprinter.Presentation.dll
+C:\Users\englumik\Documents\GitHub\Blueprint\Blueprinter\Blueprinter.Presentation\bin\Debug\Blueprinter.Presentation.pdb
+C:\Users\englumik\Documents\GitHub\Blueprint\Blueprinter\Blueprinter.Presentation\bin\Debug\Blueprinter.Core.dll
+C:\Users\englumik\Documents\GitHub\Blueprint\Blueprinter\Blueprinter.Presentation\bin\Debug\Blueprinter.Core.pdb
+C:\Users\englumik\Documents\GitHub\Blueprint\Blueprinter\Blueprinter.Presentation\obj\Debug\Blueprinter.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\englumik\Documents\GitHub\Blueprint\Blueprinter\Blueprinter.Presentation\obj\Debug\Blueprinter.Presentation.dll
+C:\Users\englumik\Documents\GitHub\Blueprint\Blueprinter\Blueprinter.Presentation\obj\Debug\Blueprinter.Presentation.pdb
