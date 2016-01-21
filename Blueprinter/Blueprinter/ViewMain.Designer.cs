@@ -30,14 +30,14 @@
         {
             this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.templatesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.hHelpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveAsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.templatesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.blueprintManagerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contentManagerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.hHelpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutBlueprintToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label1 = new System.Windows.Forms.Label();
             this.BasepathTextbox = new System.Windows.Forms.TextBox();
@@ -72,24 +72,6 @@
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(44, 24);
             this.fileToolStripMenuItem.Text = "&File";
             // 
-            // templatesToolStripMenuItem
-            // 
-            this.templatesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.blueprintManagerToolStripMenuItem,
-            this.contentManagerToolStripMenuItem});
-            this.templatesToolStripMenuItem.Name = "templatesToolStripMenuItem";
-            this.templatesToolStripMenuItem.Size = new System.Drawing.Size(90, 24);
-            this.templatesToolStripMenuItem.Text = "&Templates";
-            // 
-            // hHelpToolStripMenuItem
-            // 
-            this.hHelpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.aboutBlueprintToolStripMenuItem});
-            this.hHelpToolStripMenuItem.Name = "hHelpToolStripMenuItem";
-            this.hHelpToolStripMenuItem.Size = new System.Drawing.Size(53, 24);
-            this.hHelpToolStripMenuItem.Text = "&Help";
-            this.hHelpToolStripMenuItem.Click += new System.EventHandler(this.hHelpToolStripMenuItem_Click);
-            // 
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
@@ -115,6 +97,15 @@
             this.exitToolStripMenuItem.Size = new System.Drawing.Size(159, 24);
             this.exitToolStripMenuItem.Text = "E&xit";
             // 
+            // templatesToolStripMenuItem
+            // 
+            this.templatesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.blueprintManagerToolStripMenuItem,
+            this.contentManagerToolStripMenuItem});
+            this.templatesToolStripMenuItem.Name = "templatesToolStripMenuItem";
+            this.templatesToolStripMenuItem.Size = new System.Drawing.Size(90, 24);
+            this.templatesToolStripMenuItem.Text = "&Templates";
+            // 
             // blueprintManagerToolStripMenuItem
             // 
             this.blueprintManagerToolStripMenuItem.Name = "blueprintManagerToolStripMenuItem";
@@ -126,6 +117,15 @@
             this.contentManagerToolStripMenuItem.Name = "contentManagerToolStripMenuItem";
             this.contentManagerToolStripMenuItem.Size = new System.Drawing.Size(201, 24);
             this.contentManagerToolStripMenuItem.Text = "Content Manager";
+            // 
+            // hHelpToolStripMenuItem
+            // 
+            this.hHelpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.aboutBlueprintToolStripMenuItem});
+            this.hHelpToolStripMenuItem.Name = "hHelpToolStripMenuItem";
+            this.hHelpToolStripMenuItem.Size = new System.Drawing.Size(53, 24);
+            this.hHelpToolStripMenuItem.Text = "&Help";
+            this.hHelpToolStripMenuItem.Click += new System.EventHandler(this.hHelpToolStripMenuItem_Click);
             // 
             // aboutBlueprintToolStripMenuItem
             // 
@@ -186,9 +186,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 103);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(68, 17);
+            this.label2.Size = new System.Drawing.Size(81, 17);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Blueprint:";
+            this.label2.Text = "Blueprint: X";
             // 
             // BlueprintTextbox
             // 
